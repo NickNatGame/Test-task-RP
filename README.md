@@ -11,7 +11,11 @@
 
 ## Как запустить
 
-Нужен Python 3.10 и локальная библиотека `itergen/` с патчами для Qwen3.5 и SynCode.
+Нужен Python 3.10. Библиотека `itergen/` с патчами для Qwen3.5 и SynCode подключена из моего форка как сабмодуль. Из корня скачанного репозитория загрузи её:
+
+```bash
+git submodule update --init --recursive
+```
 
 ```bash
 python3 -m venv .venv
