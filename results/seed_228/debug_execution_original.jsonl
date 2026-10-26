@@ -1,0 +1,5 @@
+{"source_id": 754, "db_id": "world_1", "mode": "original", "execution_match": true, "executable": true, "sql_error": null, "gold_row_count": 0, "predicted_row_count": 0}
+{"source_id": 580, "db_id": "student_transcripts_tracking", "mode": "original", "execution_match": false, "executable": true, "sql_error": null, "gold_row_count": 15, "predicted_row_count": 15}
+{"source_id": 230, "db_id": "flight_2", "mode": "original", "execution_match": false, "executable": false, "sql_error": "no such column: a2.airline"}
+{"source_id": 863, "db_id": "network_1", "mode": "original", "execution_match": true, "executable": true, "sql_error": null, "gold_row_count": 1, "predicted_row_count": 1}
+{"source_id": 456, "db_id": "wta_1", "mode": "original", "execution_match": false, "executable": true, "sql_error": null, "gold_row_count": 20662, "predicted_row_count": 20662}

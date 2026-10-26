@@ -1,0 +1,50 @@
+{"source_id": 237, "db_id": "flight_2", "mode": "original", "execution_match": false, "executable": false, "sql_error": "incomplete input"}
+{"source_id": 483, "db_id": "wta_1", "mode": "original", "execution_match": false, "executable": false, "sql_error": "no such column: player_name"}
+{"source_id": 256, "db_id": "flight_2", "mode": "original", "execution_match": true, "executable": true, "sql_error": null, "gold_row_count": 1, "predicted_row_count": 1}
+{"source_id": 885, "db_id": "network_1", "mode": "original", "execution_match": true, "executable": true, "sql_error": null, "gold_row_count": 14, "predicted_row_count": 14}
+{"source_id": 253, "db_id": "flight_2", "mode": "original", "execution_match": true, "executable": true, "sql_error": null, "gold_row_count": 0, "predicted_row_count": 0}
+{"source_id": 795, "db_id": "world_1", "mode": "original", "execution_match": false, "executable": false, "sql_error": "no such table: country_language"}
+{"source_id": 484, "db_id": "wta_1", "mode": "original", "execution_match": false, "executable": false, "sql_error": "no such column: r.rank"}
+{"source_id": 541, "db_id": "student_transcripts_tracking", "mode": "original", "execution_match": false, "executable": false, "sql_error": "no such column: se.degree_program_id"}
+{"source_id": 745, "db_id": "world_1", "mode": "original", "execution_match": false, "executable": false, "sql_error": "no such column: language"}
+{"source_id": 558, "db_id": "student_transcripts_tracking", "mode": "original", "execution_match": false, "executable": false, "sql_error": "no such column: s2.current_address_id"}
+{"source_id": 734, "db_id": "world_1", "mode": "original", "execution_match": false, "executable": true, "sql_error": null, "gold_row_count": 1, "predicted_row_count": 1}
+{"source_id": 225, "db_id": "flight_2", "mode": "original", "execution_match": true, "executable": true, "sql_error": null, "gold_row_count": 0, "predicted_row_count": 0}
+{"source_id": 779, "db_id": "world_1", "mode": "original", "execution_match": false, "executable": false, "sql_error": "no such column: c.language_code"}
+{"source_id": 777, "db_id": "world_1", "mode": "original", "execution_match": false, "executable": false, "sql_error": "incomplete input"}
+{"source_id": 469, "db_id": "wta_1", "mode": "original", "execution_match": false, "executable": false, "sql_error": "no such column: r.rating"}
+{"source_id": 781, "db_id": "world_1", "mode": "original", "execution_match": false, "executable": false, "sql_error": "no such column: c.countrycode"}
+{"source_id": 549, "db_id": "student_transcripts_tracking", "mode": "original", "execution_match": false, "executable": true, "sql_error": null, "gold_row_count": 2, "predicted_row_count": 0}
+{"source_id": 543, "db_id": "student_transcripts_tracking", "mode": "original", "execution_match": false, "executable": false, "sql_error": "no such column: se.semester_id"}
+{"source_id": 538, "db_id": "student_transcripts_tracking", "mode": "original", "execution_match": false, "executable": false, "sql_error": "no such column: d.degree_summary_name"}
+{"source_id": 711, "db_id": "world_1", "mode": "original", "execution_match": false, "executable": true, "sql_error": null, "gold_row_count": 1, "predicted_row_count": 0}
+{"source_id": 197, "db_id": "flight_2", "mode": "original", "execution_match": true, "executable": true, "sql_error": null, "gold_row_count": 0, "predicted_row_count": 0}
+{"source_id": 465, "db_id": "wta_1", "mode": "original", "execution_match": false, "executable": false, "sql_error": "no such column: w.winner_name"}
+{"source_id": 867, "db_id": "network_1", "mode": "original", "execution_match": true, "executable": true, "sql_error": null, "gold_row_count": 16, "predicted_row_count": 16}
+{"source_id": 533, "db_id": "student_transcripts_tracking", "mode": "original", "execution_match": false, "executable": true, "sql_error": null, "gold_row_count": 3, "predicted_row_count": 0}
+{"source_id": 550, "db_id": "student_transcripts_tracking", "mode": "original", "execution_match": false, "executable": true, "sql_error": null, "gold_row_count": 2, "predicted_row_count": 0}
+{"source_id": 188, "db_id": "flight_2", "mode": "original", "execution_match": false, "executable": false, "sql_error": "no such table: db_info"}
+{"source_id": 490, "db_id": "wta_1", "mode": "original", "execution_match": false, "executable": true, "sql_error": null, "gold_row_count": 4, "predicted_row_count": 4}
+{"source_id": 862, "db_id": "network_1", "mode": "original", "execution_match": true, "executable": true, "sql_error": null, "gold_row_count": 1, "predicted_row_count": 1}
+{"source_id": 913, "db_id": "network_1", "mode": "original", "execution_match": false, "executable": true, "sql_error": null, "gold_row_count": 1, "predicted_row_count": 1}
+{"source_id": 765, "db_id": "world_1", "mode": "original", "execution_match": false, "executable": false, "sql_error": "no such column: COUNTRY.population"}
+{"source_id": 806, "db_id": "world_1", "mode": "original", "execution_match": false, "executable": true, "sql_error": null, "gold_row_count": 1, "predicted_row_count": 1}
+{"source_id": 895, "db_id": "network_1", "mode": "original", "execution_match": false, "executable": true, "sql_error": null, "gold_row_count": 2, "predicted_row_count": 0}
+{"source_id": 915, "db_id": "network_1", "mode": "original", "execution_match": false, "executable": true, "sql_error": null, "gold_row_count": 1, "predicted_row_count": 8}
+{"source_id": 441, "db_id": "wta_1", "mode": "original", "execution_match": false, "executable": false, "sql_error": "no such table: db_info"}
+{"source_id": 872, "db_id": "network_1", "mode": "original", "execution_match": false, "executable": false, "sql_error": "no such table: db_info"}
+{"source_id": 515, "db_id": "student_transcripts_tracking", "mode": "original", "execution_match": false, "executable": true, "sql_error": null, "gold_row_count": 1, "predicted_row_count": 10}
+{"source_id": 870, "db_id": "network_1", "mode": "original", "execution_match": true, "executable": true, "sql_error": null, "gold_row_count": 4, "predicted_row_count": 4}
+{"source_id": 564, "db_id": "student_transcripts_tracking", "mode": "original", "execution_match": true, "executable": true, "sql_error": null, "gold_row_count": 1, "predicted_row_count": 1}
+{"source_id": 252, "db_id": "flight_2", "mode": "original", "execution_match": true, "executable": true, "sql_error": null, "gold_row_count": 0, "predicted_row_count": 0}
+{"source_id": 892, "db_id": "network_1", "mode": "original", "execution_match": false, "executable": true, "sql_error": null, "gold_row_count": 1, "predicted_row_count": 1}
+{"source_id": 488, "db_id": "wta_1", "mode": "original", "execution_match": false, "executable": false, "sql_error": "no such column: p.rank_points"}
+{"source_id": 231, "db_id": "flight_2", "mode": "original", "execution_match": false, "executable": false, "sql_error": "no such column: a2.airline"}
+{"source_id": 486, "db_id": "wta_1", "mode": "original", "execution_match": false, "executable": true, "sql_error": null, "gold_row_count": 1, "predicted_row_count": 1}
+{"source_id": 462, "db_id": "wta_1", "mode": "original", "execution_match": false, "executable": true, "sql_error": null, "gold_row_count": 1, "predicted_row_count": 1}
+{"source_id": 195, "db_id": "flight_2", "mode": "original", "execution_match": false, "executable": false, "sql_error": "no such table: db_info"}
+{"source_id": 434, "db_id": "wta_1", "mode": "original", "execution_match": true, "executable": true, "sql_error": null, "gold_row_count": 2217, "predicted_row_count": 2217}
+{"source_id": 881, "db_id": "network_1", "mode": "original", "execution_match": false, "executable": false, "sql_error": "no such column: f.id"}
+{"source_id": 801, "db_id": "world_1", "mode": "original", "execution_match": true, "executable": true, "sql_error": null, "gold_row_count": 5, "predicted_row_count": 5}
+{"source_id": 518, "db_id": "student_transcripts_tracking", "mode": "original", "execution_match": true, "executable": true, "sql_error": null, "gold_row_count": 1, "predicted_row_count": 1}
+{"source_id": 218, "db_id": "flight_2", "mode": "original", "execution_match": true, "executable": true, "sql_error": null, "gold_row_count": 1, "predicted_row_count": 1}

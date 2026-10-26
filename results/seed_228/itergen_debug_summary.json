@@ -1,0 +1,14 @@
+{
+  "examples": 5,
+  "execution_correct": 2,
+  "execution_accuracy": 0.4,
+  "total_backtracks": 2,
+  "total_generated_tokens": 300,
+  "statuses": {
+    "754": "stopped",
+    "580": "stopped",
+    "230": "stopped",
+    "863": "stopped",
+    "456": "stopped"
+  }
+}

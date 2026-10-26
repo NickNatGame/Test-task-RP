@@ -1,0 +1,15 @@
+{
+  "original": {
+    "same_answer": true,
+    "same_token_count": true
+  },
+  "syncode": {
+    "same_answer": true,
+    "same_token_count": true
+  },
+  "itergen": {
+    "same_answer": true,
+    "same_token_count": true,
+    "same_trace": true
+  }
+}

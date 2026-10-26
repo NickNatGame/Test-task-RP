@@ -1,0 +1,70 @@
+{
+  "seed": 228,
+  "metrics": {
+    "original": {
+      "examples": 50,
+      "executable": 28,
+      "executable_rate": 0.56,
+      "execution_correct": 14,
+      "execution_accuracy": 0.28,
+      "total_seconds": 148.20311319000757,
+      "average_seconds": 2.9640622638001513,
+      "total_generated_tokens": 2543,
+      "average_tokens": 50.86,
+      "total_backtracks": 0,
+      "average_backtracks": 0.0
+    },
+    "syncode": {
+      "examples": 50,
+      "executable": 12,
+      "executable_rate": 0.24,
+      "execution_correct": 7,
+      "execution_accuracy": 0.14,
+      "total_seconds": 238.97441875900404,
+      "average_seconds": 4.7794883751800805,
+      "total_generated_tokens": 4535,
+      "average_tokens": 90.7,
+      "total_backtracks": 0,
+      "average_backtracks": 0.0
+    },
+    "itergen": {
+      "examples": 50,
+      "executable": 28,
+      "executable_rate": 0.56,
+      "execution_correct": 14,
+      "execution_accuracy": 0.28,
+      "total_seconds": 167.11093389600026,
+      "average_seconds": 3.3422186779200054,
+      "total_generated_tokens": 2514,
+      "average_tokens": 50.28,
+      "total_backtracks": 18,
+      "average_backtracks": 0.36
+    },
+    "itergen_2_backtracks": {
+      "examples": 50,
+      "executable": 27,
+      "executable_rate": 0.54,
+      "execution_correct": 13,
+      "execution_accuracy": 0.26,
+      "total_seconds": 159.55897729299983,
+      "average_seconds": 3.1911795458599967,
+      "total_generated_tokens": 2362,
+      "average_tokens": 47.24,
+      "total_backtracks": 16,
+      "average_backtracks": 0.32
+    },
+    "itergen_local_only": {
+      "examples": 50,
+      "executable": 28,
+      "executable_rate": 0.56,
+      "execution_correct": 14,
+      "execution_accuracy": 0.28,
+      "total_seconds": 165.57048324600015,
+      "average_seconds": 3.311409664920003,
+      "total_generated_tokens": 2514,
+      "average_tokens": 50.28,
+      "total_backtracks": 18,
+      "average_backtracks": 0.36
+    }
+  }
+}
